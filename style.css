@@ -1,4 +1,11 @@
 h1 {
   text-align: center;
   color: aqua;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 40pt;
+}
+img {
+  margin: auto 0;
+  display: block;
+  size: 50px;
 }
